@@ -1,1 +1,1 @@
-It's just for exercise git.
+It's just for exercise pull/fetch.
