@@ -1,1 +1,1 @@
-It's just for exercise pull/fetch.
+It's just for exercise pull.
